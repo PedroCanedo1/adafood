@@ -8,15 +8,15 @@ Na primeira, seguindo os requisitos de negócio especificados pelo enunciado, mo
 
 Na segunda, tendo como base o banco de dados dvd_rental, responder as perguntas de negócio elaboradas pelo enunciado do projeto através de consultas SQL.
 
-> O enunciado do projeto, os requisitos de negócio do restaurante e as perguntas relacionadas ao banco dvd_rental você encontra no arquivo [Projeto.pdf]()
+> O enunciado do projeto, os requisitos de negócio do restaurante e as perguntas relacionadas ao banco dvd_rental você encontra no arquivo [Projeto.pdf](https://github.com/PedroCanedo1/adafood/blob/main/Projeto.pdf)
 
 1. Sobre a parte do projeto referente ao restaurante, você pode conferir os seguintes arquivos:
-- [Modelo Conceitual do Banco](): rascunho conceitual no banco de dados
-- [Modelagem Logica do Banco](): diagrama com a modelagem lógica do banco de dados
-- [DDL](): arquivo com os comandos de criação das tabelas
-- [DML](): arquivo com a inserção de alguns dados para popular as tabelas
-- [DQL](): arquivo com as querys que respondem perguntas de negócio elaboradas pelo enunciado do projeto
+- [Modelo Conceitual do Banco](https://github.com/PedroCanedo1/adafood/blob/main/Modelo%20Conceitual%20do%20Banco.pdf): rascunho conceitual no banco de dados
+- [Modelagem Logica do Banco](https://github.com/PedroCanedo1/adafood/blob/main/Modelagem%20Logica%20do%20Banco.pdf): diagrama com a modelagem lógica do banco de dados
+- [DDL adafood](https://github.com/PedroCanedo1/adafood/blob/main/DDL%20adafood.sql): arquivo com os comandos de criação das tabelas
+- [DML adafood](https://github.com/PedroCanedo1/adafood/blob/main/DML%20adafood.sql): arquivo com a inserção de alguns dados para popular as tabelas
+- [DQL adafood](https://github.com/PedroCanedo1/adafood/blob/main/DQL%20adafood.sql): arquivo com as querys que respondem perguntas de negócio elaboradas pelo enunciado do projeto
 
 2. Sobre a parte do projeto referente ao banco dvd_rental, você pode conferir os seguintes arquivos:
-- [dump-dvd_rental](): arquivo com comandos para criar e popular as tabelas do banco
-- [Parte 2 - Projeto](): arquivo com as querys que respondem perguntas de negócio elaboradas pelo enunciado do projeto
+- [dump-dvd_rental](https://github.com/PedroCanedo1/adafood/blob/main/dump-dvd_rental-202409272102.sql): arquivo com comandos para criar e popular as tabelas do banco
+- [Parte 2 - Projeto](https://github.com/PedroCanedo1/adafood/blob/main/Parte%202%20-%20projeto.sql): arquivo com as querys que respondem perguntas de negócio elaboradas pelo enunciado do projeto
